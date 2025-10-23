@@ -1,2 +1,2 @@
-# Fall24-25
+# Freshman
 A collection of all my coding projects from freshman year.
