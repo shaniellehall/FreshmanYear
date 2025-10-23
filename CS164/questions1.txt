@@ -1,0 +1,41 @@
+Shanielle Hall snh325@drexel.edu 
+
+Q1:	Eric Steiner ess324@drexel.edu
+
+Q2: 	Aditya Akolkar aaa588@drexel.edu
+	Office Hours : (Mon, Tue) 4-6 pm
+
+	Abmishek Baj ab4777@drexel.edu
+	Office Hours : Mon 6-8pm , Tue 2-4pm
+	
+	Vishal Hagargundgi vh347@drexel.edu
+	Office Hours : Tue 12-2pm , Wed 4-6pm
+
+Q3:	Similarities: Both machines permit you to create an account.
+	Differences:  Blackboard does not permit your files to be accessed via the World Wide Web.   
+
+
+
+Q4:  	ssh snh325@tux.cs.drexel.edu
+	snh325@tux5:~$ 
+	Uptime: 11:42:18 up 8 days, 20:15, 17 users
+
+Q5:	"Dr. Stuart is an old man"
+
+Q6: 	drwx--x-- 2 snh325 domain users 0 Sep 25 12:37 public_html
+
+Q7: 	I had issues with getting permission to the file. I went to the office hours, an with the help of the TA I was able to figure out how to change the permissions.
+
+Q8:	I would use CTRL + B to do a backward search, which I believe would be the fastest way to find a string of text.
+
+Q9:	a. yes
+	b. yes
+	c. yes
+
+Q10:	PS C:\Users\iwant> scp snh325@tux.cs.drexel.edu:public_html/index.html C:\Users\iwant\Desktop\CS164
+
+Q11:	I don't think the world looks like a nail, as that means that you could just use a hammer to fix your problems. I think there are many solutions to problems that are presented, and while some might be faster, or more convenient, than others, these solutions still exist and are a valid way to solve problems.
+	
+Q12:	https://www.cs.drexel.edu/~snh325/
+
+Q14:	Some parts were confusing to me, but that was because I am more of a visual learner. If there were more examples (pictures of what something should look like after it is successfully completed)

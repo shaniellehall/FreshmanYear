@@ -1,0 +1,35 @@
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+Q1: p = 3257  q = 1117
+
+Q2: N = 3861469. N was calculated by multiplying p and q.
+
+Q3: I chose the value 26998273 for K.
+
+Q4: e: 3643 d: 7411
+
+Q5: 
+ 115121 115116 101109 046111 117116 046112 114105 110116 040034 072101 108108 111032 087111 114108 100034 041059
+
+Q6: The decryption was succesful
+
+Q7 : Help! In the classic literary work, "Captain Underpants and the Perilous Plot of Professor Poopypants", by Dav Pilkey, the Professor becomes enraged and forces everyone in the town to assume a new name. See http://www.cs.drexel.edu/~introcs/Fa09/notes/09.2_JSArrays/PoopyPants/index.html for the Professor's rules:
+
+Q8: p = 23  q = 29 N = 667 e = 9 d = 137
+Key of my group member - N : 1121 e : 19
+
+Q9 : You are pretty
+
+Q10: There are 10 prime numbers in the range of 19-59. Since there are 10 values, there are 100 possible key sets. It would take a few seconds. You could succesfully decrypt a message that way. As the possible values increase, it would take longer to decrypt, and to try all key pairs.
+
+Q11: 0b948a04eb42a9cc2c344f02cb494d4f4751bd25
+
+Q12: How are you doing 
+
+Q13: 7db03ac1aea5a8c4de3180f7ff1004d437c1b8ed
+
+Q14: It worked correctly.
+
+Q15: Have a nice holiday!

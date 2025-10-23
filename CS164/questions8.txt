@@ -1,0 +1,113 @@
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+Q1: 	The dx variable stands for the difference between x values.
+	The dy variable stands for the difference between y values.
+
+Q2:	The for x from x0 to x1 function displays each pixel along the line.
+
+Q3:	The 3 forms a color string may take when using setcellcolor(t, r, c, color) are:
+              RGB values ("rgb( R, G, B)")
+              Hexadecimal values ("#RRGGBB")
+              Color Names ("Red")
+
+Q4:	man button
+
+Q5: 	The function puts() writes the string s to stream, without its terminating null byte ('\0').
+	The return value of floor(0.5) is 0.0.
+	sin(NaN) will return NaN, as sin cannot calculate the value of a non number.
+
+Q6:	The code prompted me to input four values x0,y0,x1,y1. On the secondary html page, the code displayed a grid with two squares, one green and one red.
+
+
+Q8: Yes
+
+Expected output:
+5         
+4         
+3     x x 
+2  x x      
+1         
+ 1 2 3 4 5	
+
+Actual output:
+5         
+4         
+3     x x   
+2  x x      
+1         
+ 1 2 3 4 5
+
+Q9: It doesn't work because this grid only counts from 1 and up. So the values of (0,0) would not work because these are outside the grid.
+
+
+Expected output:
+5
+4
+3        x
+2    x x
+1x x        
+ 1 2 3 4 5
+
+Actual output:
+5     x 
+4
+3
+2   x 
+1 x
+x 1 2 3 4 5
+
+Q10:
+
+(1,1) (3,3)
+Expected output:
+5
+4
+3    x
+2  x
+1x
+ 1 2 3 4 5
+
+Actual output:
+5
+4
+3    x
+2  x
+1x 
+ 1 2 3 4 5
+
+(2,2) (4,4)
+Expected output:
+5
+4      x
+3    x  
+2  x
+1
+ 1 2 3 4 5
+
+Actual output:
+5
+4      x
+3    x
+2  x
+1
+ 1 2 3 4 5
+
+(2,3) (4,5)
+
+Expected output:
+5      x
+4    x
+3  x
+2
+1
+ 1 2 3 4 5
+
+Actual output: 
+5      x
+4    x
+3  x
+2
+1
+ 1 2 3 4 5

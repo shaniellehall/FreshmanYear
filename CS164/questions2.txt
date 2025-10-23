@@ -1,0 +1,36 @@
+Shanielle Hall snh325@drexel.edu Lab 060
+
+Q1:	I finished the tutorial, but had a bit of trouble figuring out the answer for Part 5. The answer for Part 5 was Q.
+
+Q2:	The LED switched between red and black.
+
+Q3:	Before, when the toggle was on (shaded), the LED was red. Now, when the toggle is on, the LED is black.
+
+Q4:	A	B	|C	S
+	F	F	|F	F
+	F	T	|F	T
+	T	F	|F	T
+	T	T	|T	F 
+	
+	A	B	|C	S
+	0	0	|0	0
+	0	1	|0	1
+	1	0	|0	1
+	1	1	|1	0
+
+Q5:	When both toggles are off, the 4bit7seg is 0. When A is on and B is off, the 	4bit7seg is 2. When B is on and A is off, the 4bit7seg is 2. When both are 	on, the 4bit7seg is 1.
+
+Q6:	A	B	|¬(x ∧ ¬y)
+	F	F	|T
+	F	T	|T
+	T	F	|F
+	T	T	|T
+
+Q7:	¬x ∨ y
+
+Q8:	X	Y	|¬x ∨ y
+	F	F	|T
+	F	T	|T
+	T	F	|F
+	T	T	|T
+

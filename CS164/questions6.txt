@@ -1,0 +1,39 @@
+
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+Q1: 	I did not run into any problems
+
+Q2:	Pick variable names for all values, the sum, count and average of the values.
+	Make a loop that will count the numbers, and add them until a negative number is read.
+	Once you find the negative numbers, what do you do?
+	What do you do at the end of the program.
+
+Q3: 	Pick a set of numbers (5 numbers) and assign variable names to all of them.
+	For each loop, check if the number is positive, and if it is, add 1 to the counter, add the number to sum sum, and move to the second number.
+
+	If there is a negative number, stop the loop and calculate the avg.
+	Print out the avg, sum, and count.
+
+Q4:	Assign values to each variable name. Assign variable names for the counter,
+	the sum, and the average. For each variable, first check if it is positive or
+	negative. If it is negative, stop and print the sum, average and count. If the
+	variable is positive, increment the counter by 1, and add the value of the
+	variable to sum. Once all the values have been read, or there has been a 
+	negative number, take the sum and divide it by the counter. Assign that value
+	to the average. Print the sum, average and the count.
+
+Q5:	The "fun" declaration declares the name, arguments(if any), and the function to be run.
+
+Q6:	button and sread are the functions used to get user input. sread is more beneficial because it reads user input into a location.
+	
+Q7: 	tranqc 
+
+Q8:	I ran into a few syntax errors. Most of them were formatting errors, like a missing "}". I would read the syntax error, and use "ctrl+/" to find the line number.
+
+
+Q9:	My code produced the desired output.
+
+Q10:	It worked, however I ran into a problem where the code would output the sum of all the positive numbers, instead of the ones before the negative numbers.
+	I rearranged the code so that it would stop once a negative number is read.

@@ -1,0 +1,47 @@
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+
+Q1: 	There are six hexadecimal numbers used to specify a full color in a webpage. 24 bits are the total bits the hexadecimal digits correspond to.
+
+Q2: 	There are three colors, red, green and blue. Each primary color is assigned 8 bits. The range of values is between 00 to FF (0 to 255).
+
+Q3: 	Heliotrope Purple: #df73ff rgb(223,115,255)
+	Dimorphotheca Magenta: #E3319D rgb(227,49,157)
+	Rubber Ducky Yellow: FFD801 rgb(255,216,1)
+
+Q4:	&¬;
+	&∨;
+	&∧;
+
+Q5:	
+	|Base 10	|Base 2		|Base 4		|Base 16	|
+	|0		|0000		|0		|0		|
+	|1		|0001		|1		|1		|
+	|2		|0010		|2		|2		|
+	|3		|0011		|3		|3		|
+	|4		|0100		|10		|4		|
+	|5		|0101		|11		|5		|
+	|6		|0110		|12		|6		|
+	|7		|0111		|13		|7		|
+	|8		|1000		|20		|8		|
+	|9		|1001		|21		|9		|
+	|10		|1010		|22		|A		|
+	|11		|1011		|23		|B		|
+	|12		|1100		|30		|C		|
+	|13		|1101		|31		|D		|
+	|14		|1110		|32		|E		|
+	|15		|1111		|33		|F		|
+
+Q6:	I noticed that in base 4, the number never went to 4 in the one's place, and that in base 16, after 9, the numbers change to letters.
+
+Q7: 	Base 2 - 0110  1001  1101  1010  1101 1011  1110  1110  1111  0100  0010  0000
+	Base 16 -  6	9    D	   A     D    B     D      E     F    4      2     0
+	Hexadecimal - 69DADBDEF420
+	Base 4 	- 12    21    31    22    31    23   32    32   33    10    2     0
+
+Q8:	The tags used to start and end a row of a table are <tr> and </tr>. <td> and </td> are used to begin and end a table data element.
+
+Q9:	Link to index.html - https://www.cs.drexel.edu/~snh325/
+	Link to numbers.html - https://www.cs.drexel.edu/~snh325/numbers.html

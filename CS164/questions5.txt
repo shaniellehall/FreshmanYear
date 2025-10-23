@@ -1,0 +1,83 @@
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+Q1: The instruction is 3 TAC, tests the number and jumps if negative.
+
+Q2:		 
+Read a number, decide if number is negative, if number is negative, stop, if number is positive, start cycle again.
+
+Q3:	start	INP	03	Step 2
+ 		CLA	03	Step 3
+		SUB	03	Step 4
+		JMP	03	Step 5
+		HRS	00	Step 6
+
+Q4: 	03  	000	valu
+
+	10	003 start INP 	valu	Read number into memory
+	11	103 	  CLA	valu	Load from memory spot 03 to accumulator
+	12	303 	  TAC	valu	Check if its negative
+	13	803 	  JMP	valu	If number is not-negative, jump to beginning and restart the loop
+	14	900 	  HRS	00	If number is negative, halt and stop the program
+
+
+Q5: 	The accumulator ran until the negative number. 	
+
+Q6:	
+start	INP	04 	step 1
+	CLA	04	step 2
+	TAC	17	step 3
+	CLA	05	step 4
+	ADD	00	step 5
+	STO	05	step 6
+	JMP	10	step 7
+	OUT	05	step 8
+	HRS	00	step 9
+
+Q7: 	00	001	incrementer	Increments countr by 1
+	04      000	valu		Store current valu
+	05	000	countr		Stores number of positive values
+
+
+        10      004 	start  	INP   	Read number into memory
+        11      104       	CLA   	Load from memory spot 04 to accumulator
+        12      317       	TAC   	Check if its negative, and jump to OUT if negative
+	13	105	  	CLA   	Load from memory spot 05 to accumulator
+	14	200	  	ADD	If not negative, add 1 to countr
+	15	605	  	STO	Store current accumulator to memory spot 05
+        16      810       	JMP   	If number is not-negative, jump to beginning and restart the loop
+        17	505 	  	OUT   	Output the countr
+	18      900       	HRS   	If number is negative, halt and stop the program
+	
+Q8:	It correctly outputted the countr
+
+Q9:	
+
+start	INP	05	step 1
+	CLA	05	step 2
+	TAC	16	step 3
+	ADD	04	step 4
+	STO	04	step 5
+	JMP	10	step 6
+	OUT	04	step 7
+	HRS	00	step 8
+
+Q10:	04	000	sum 		Store current sum
+	05 	000 	valu		Store current valu
+
+
+	10	005	start	INP	Read number into memory
+	11	105		CLA	Load from memory spot 05 into accumulator
+	12	316		TAC	Check if its negative, and jump to OUT if negative
+	13	204		ADD 	Add current valu to sum
+	14	604		STO	Store current sum in memory spot 04
+	15	810		JMP	If number is not-negative, jump to beginning and restart the loop
+	16	504		OUT	Output the sum
+	17	900		HRS	If number is negative, halt and stop the program
+
+Q11:	001
+	004
+	-033
+	233
+	Output: 005

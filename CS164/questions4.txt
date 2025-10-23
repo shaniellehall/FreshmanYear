@@ -1,0 +1,89 @@
+Shanielle Hall 
+snh325@drexel.edu 14730235 
+Lab 164-060
+
+
+Q1: 	&¬;
+	&∨;
+	&∧;
+
+Q2A: 	Indempotent
+	a	a	|a
+	0	0	|0
+	0	1	|0
+	1	0	|0
+	1	1	|1
+
+Q2B:	x'y + xy' + xy
+	x'y + (xy' + xy) - y gets cancelled out
+	x'y + x
+	(x + x')(x + y) - (x + x') gets cancelled out
+	x + y
+	xy
+
+	In the equation, both (x' & x) and (y & y') cancel each other out, so you are left with xy. 
+
+Q3:	x	y	|x > y
+	0	0	|0
+	0	1	|0
+	1	0	|1
+	1	1	|0
+
+	Boolean Expression : 	when x is 0 and y is 0, x > y = 0
+				when x is 0 and y is 1, x > y = 0
+				when x is 1 and y is 0, x > y = 1
+				when x is 1 and y is 1, x > y = 0
+	It cannot be simplified.
+
+Q4:	N/A
+
+Q5:	It took two gates to build.
+	I think it would need 5 gates to compare 2 2-bit numbers. Since comparing 2 1-bit numbers took two gates, 2 times the amount would be 4 gates. Then there would be one AND gate at the end to join them together.
+
+Q6:	It would need 16 rows, comparing both numbers by each other. For example:
+
+	x	y
+	00	00
+	00	01
+	00	10
+	00	11
+	
+	This would have to be repeated for each instance of each number.
+
+	To compare 2 3-bit numbers, you would need 64 rows.
+
+	I think it would need 7 gates to compare 3-bit numbers. Since comparing 2 1-bit numbers took two gates, 3 times the amount would be 6 gates. Then there would be one AND gate at the end to join them together.
+
+Comparing larger numbers would end up being too confusing for someone to follow along.
+
+Q7:	Induction breaks down the comparison, making it easier follow along, and code.
+Part A: false
+Part B: To compare the two binary numbers, first you convert it to decimal. To convert from binary to decimal, you can do this calculation.
+
+For the binary number 1100101101011001001 you would multiply each bit by 2 raised to the power of its position, starting from the right side. 
+
+1100101101011001001
+
+(1 x 2^0) (1 x 2^1) (1 x 2^2) ..... (1 x 2^16) (1 x 2^17) (1 x 2^18)
+
+Once you do all that, you would add the sums to get your final answer.
+
+Q8:	x	y	|x > y	x = y
+	0	0	|0	1
+	0	1	|0	0
+	1	0	|1	0
+	1	1	|0	1
+
+Q9:	If x=y and x>y are both false, x would automatically be smaller than y.
+
+Q10:  	g	e	Gr	|G
+	0	0	0	|0
+	0	0	1	|0
+	0	1	0	|0
+	0	1	1	|1
+	1	0	0	|1
+	1	0	1	|1
+	1	1	0	|1
+	1	1	1	|1
+
+	G = g OR (e AND Gr)

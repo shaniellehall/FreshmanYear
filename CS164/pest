@@ -1,0 +1,63 @@
+var state
+var hunger
+var energy
+var hygiene
+var funn
+
+
+
+
+
+fun sleepy(){
+    makeimg : sleepy
+}
+
+fun hungry(){
+}
+
+fun dirty(){
+}
+
+fun playful(){
+}
+
+fun angry(){
+}
+
+fun sad(){
+}
+
+fun fine(){
+}
+
+fun bored(){
+}
+
+fun sleepyMood(){
+    if .energy <=25
+    sleepy()
+}
+
+fun hungryMood(){
+    if .hunger <= 50
+    hunger()
+}
+
+fun playfulMood(){
+    if 
+}
+
+fun angryMood(){
+}
+
+fun sadMood(){
+}
+
+fun dirtyMood(){
+}
+
+fun fineMood(){
+}
+
+fun boredMood(){
+}
