@@ -1,0 +1,42 @@
+20
+Gunsmoke
+30
+The Simpsons
+10
+Will & Grace
+14
+Dallas
+20
+Law & Order
+12
+Murder, She Wrote
+14
+Bonanza
+15
+ER
+12
+NYPD Blue
+11
+Cheers
+11
+The Jeffersons
+20
+Law & Order: Special Victims Unit
+08
+Mama
+07
+Rules of Engagement
+07
+Medium
+08
+Barney Miller
+10
+Smallville
+07
+Lux Video Theatre
+08
+Castle
+10
+Modern Family
+10
+Friends

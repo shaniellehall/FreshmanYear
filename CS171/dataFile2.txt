@@ -1,0 +1,76 @@
+20
+Gunsmoke
+30
+The Simpsons
+10
+Will & Grace
+14
+Dallas
+20
+Law & Order
+12
+Murder, She Wrote
+14
+Bonanza
+15
+ER
+12
+NYPD Blue
+11
+Cheers
+11
+The Jeffersons
+20
+Law & Order: Special Victims Unit
+08
+Mama
+07
+Rules of Engagement
+07
+Medium
+08
+Barney Miller
+10
+Smallville
+07
+Lux Video Theatre
+08
+Castle
+10
+Modern Family
+10
+Friends
+09
+Perry Mason
+17
+Family Guy
+16
+NCIS
+07
+Step by Step
+07
+Golden Girls
+08
+Perfect Strangers
+09
+CSI: NY
+09
+The Middle
+12
+Bones
+12
+The Big Bang Theory
+14
+King of the Hill
+15
+The Jack Benny Program
+15
+American Dad!
+14
+Knots Landing
+15
+Grey's Anatomy
+07
+Mad About You
+14
+Armstrong Circle Theatre
